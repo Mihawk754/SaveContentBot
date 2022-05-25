@@ -7,7 +7,7 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/Mihawk754/SaveRestrictedContentBot",
+    "repository": "https://github.com/Mihawk754/SaveContentBot",
     "website": "",
     "success_url": "https://t.me/DroneBots",
     "env": {
