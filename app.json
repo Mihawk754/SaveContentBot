@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/Mihawk754/SaveContentBot",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/itachiuchiha8728",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
